@@ -1,5 +1,7 @@
 # Android Web Server using Termux & Cloudflare Tunnel
 
+![Android Device](https://www.techadvisor.com/wp-content/uploads/2022/06/honor_8x_review_10.jpg?quality=50&strip=all)
+
 ## Overview
 
 - Host a website on an Android device
@@ -9,8 +11,6 @@
 - Expose the site publicly using Cloudflare Quick Tunnel
 - No domain or public IP required
 - Server continues running after closing Termux
-
----
 
 ## Step 0: Enable SSH Access (Termux ➜ MobaXterm)
 
